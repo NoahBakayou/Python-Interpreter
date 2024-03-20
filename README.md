@@ -2,7 +2,7 @@
 
 This project implements a basic interpreter that can handle simple arithmetic expressions, variables, and assignments. 
 
-It does **not** rely on Python's built-in functions such as eval()! Instead, the program includes its own built-in math parser!
+It does **not** rely on Python's built-in functions such as eval(). Instead, the program includes its own built-in math parser!
 
 **Key Components**
 
